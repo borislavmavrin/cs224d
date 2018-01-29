@@ -1,5 +1,5 @@
 .DS_store
 *.pyc
-assignment2/assignment2_release/.env
-assignment2/assignment2_release/.ipynb_checkpoints
+assignment2/assignment2_release/.env/
+assignment2/assignment2_release/.ipynb_checkpoints/
 
